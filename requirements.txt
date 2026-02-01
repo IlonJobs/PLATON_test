@@ -1,0 +1,14 @@
+dotenv==0.9.9
+langchain-gigachat==0.3.12
+langgraph==0.6.8
+telebot==0.0.5
+pyTelegramBotAPI
+qdrant-client
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langchain_qdrant
+pypdf
+python-dotenv
+pillow
